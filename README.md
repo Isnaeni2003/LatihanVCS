@@ -1,33 +1,32 @@
 # Latihan 1
 
-1.Langkah pertama kita membuat akun di situs github.com
 
-![WhatsApp Image 2022-10-16 at 20 38 42](https://user-images.githubusercontent.com/115929351/196044188-aa57fc89-37ad-4d74-8839-5e5b0ff5782f.jpeg)
-2.Kemudian membuat repository baru, dengan klik “New”
-![WhatsApp Image 2022-10-16 at 20 38 41](https://user-images.githubusercontent.com/115929351/196044206-10d20528-d918-4df6-ae2f-306117daeea0.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 42](https://user-images.githubusercontent.com/115929351/196045043-c2c06210-a00a-4ef4-946d-93ecec5a24db.jpeg)
 
-3. Membuat file name repository sesuai dengan perintah tugas yaitu “ Latihan VCS “
-![WhatsApp Image 2022-10-16 at 20 38 40 (1)](https://user-images.githubusercontent.com/115929351/196044213-9b2873cd-f4f6-4620-b3da-ca8c3ea2b0c6.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 41](https://user-images.githubusercontent.com/115929351/196045050-89799edb-2cdd-425e-967a-8813cbad4dc7.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 40 (1)](https://user-images.githubusercontent.com/115929351/196045052-0ef5356c-0dd0-4109-b4b4-1024116f7adb.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 40](https://user-images.githubusercontent.com/115929351/196045055-684ca306-0b9f-4f4c-a8cf-544001cca464.jpeg)
 
-4.Lalu pada layar terminal, ketik perintah mkdir (untuk membuat folder), cd (memasukkan folder), dan selanjutnya ketikkan perintah nano README.md (untuk mengedit file)
+![WhatsApp Image 2022-10-16 at 20 38 39 (2)](https://user-images.githubusercontent.com/115929351/196045067-2f171684-7e42-4f4d-9ce6-943ddc229b00.jpeg)
 
-![WhatsApp Image 2022-10-16 at 20 38 40](https://user-images.githubusercontent.com/115929351/196044215-97fc23a9-b97c-4ddf-bdf8-ccf98623850b.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 39 (1)](https://user-images.githubusercontent.com/115929351/196045077-b3fb4565-4f90-4a67-8afc-c6103d46eec1.jpeg)
 
-5. Pada layar nano README.md ketiikan teks “ Latihan VCS “ sesuai perintah tugas
-![WhatsApp Image 2022-10-16 at 20 38 39 (2)](https://user-images.githubusercontent.com/115929351/196044224-8861be51-5619-460e-a587-9278aa5cbf46.jpeg)
-
-6. Selanjutnya kembali ke tampilan terminal, untuk memasukkan perintah git init . git add . git commit -m “ File pertama saya “
-![WhatsApp Image 2022-10-16 at 20 38 39 (1)](https://user-images.githubusercontent.com/115929351/196044227-41029235-0846-4bca-81d3-a6d610500873.jpeg)
-
-7. Selanjutnya kita akan membuat password yang nantinya akan diinput, dengan mengklik Setting di menu pojok kanan atas, lalu pilih menu developer setting
-![WhatsApp Image 2022-10-16 at 21 03 29](https://user-images.githubusercontent.com/115929351/196044536-1849fbe8-c41c-484a-a022-90c3d8888935.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 39](https://user-images.githubusercontent.com/115929351/196045082-4a663a26-d244-4cd9-8fc5-bd717edfc188.jpeg)
 
 
-![WhatsApp Image 2022-10-16 at 21 03 49](https://user-images.githubusercontent.com/115929351/196044546-21ff450e-d4b0-4f41-942f-2b31522b97cc.jpeg)
 
-![WhatsApp Image 2022-10-16 at 21 03 49(1)](https://user-images.githubusercontent.com/115929351/196044551-dcf902cc-6f3e-4b02-a954-bcddce55ea6b.jpeg)
 
-![WhatsApp Image 2022-10-16 at 20 38 39 (1)](https://user-images.githubusercontent.com/115929351/196044727-a793e166-710a-4d50-b3c5-1cb7ccccaaf2.jpeg)
-![WhatsApp Image 2022-10-16 at 20 38 39 (2)](https://user-images.githubusercontent.com/115929351/196044732-82c3a578-b49d-4251-bb23-de500d955d67.jpeg)
-![WhatsApp Image 2022-10-16 at 20 38 40](https://user-images.githubusercontent.com/115929351/196044741-2b59da8a-65aa-4f17-85a6-2565de623795.jpeg)
+
+![WhatsApp Image 2022-10-16 at 21 03 29](https://user-images.githubusercontent.com/115929351/196044993-ea9a04f9-5362-4af2-914a-42ba92c9aea9.jpeg)
+![WhatsApp Image 2022-10-16 at 21 03 49](https://user-images.githubusercontent.com/115929351/196044997-3126642f-589c-4d12-93a2-b5d7000d7805.jpeg)![Uploading WhatsApp Image 2022-10-16 at 20.38.39 (1).jpeg…]()
+
+![WhatsApp Image 2022-10-16 at 21 03 49(1)](https://user-images.githubusercontent.com/115929351/196045000-4f385eab-9acf-4c70-9804-5ddc96ce8641.jpeg)
+![WhatsApp Image 2022-10-16 at 21 03 50](https://user-images.githubusercontent.com/115929351/196045002-d44a86c7-11d5-428f-b45f-d264fc740b08.jpeg)
+![WhatsApp Image 2022-10-16 at 21 03 50(1)](https://user-images.githubusercontent.com/115929351/196045003-39fab5cc-175a-45d7-9d8b-fbe6a3063459.jpeg)
+![WhatsApp Image 2022-10-16 at 21 03 51](https://user-images.githubusercontent.com/115929351/196045005-b8fd557e-3e60-44ad-be0f-60be67bcb51d.jpeg)
+
+
+![WhatsApp Image 2022-10-16 at 20 38 38](https://user-images.githubusercontent.com/115929351/196045091-681dac2c-ee88-4847-81c6-b0e7e0bbe739.jpeg)
+![WhatsApp Image 2022-10-16 at 20 38 37](https://user-images.githubusercontent.com/115929351/196045097-4e75896e-2457-4340-a27c-783bb9093bfa.jpeg)
+
 
